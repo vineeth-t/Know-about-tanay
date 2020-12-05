@@ -1,4 +1,6 @@
-# Know-about-tanay
- Quiz on my mentor tanay
+# Do-You-Know-about-me
+ 
 
-Tanay works at microsoft and his goal is to make 100 students get a job in next 6 months.
+I am Pvr. I work at Infosys currently living in Khammam
+
+This was a CLI app made in repl.it using node.js
