@@ -1,6 +1,6 @@
 var readLineSync= require('readline-sync');
 var userName=readLineSync.question("what's your name? ");
-console.log("welcome "+userName+" Do you Know Tanay");
+console.log("welcome "+userName+" Do you Know pvr");
 var score=0;
 var highestScore=[{
   name:"PVR",
@@ -10,17 +10,17 @@ var highestScore=[{
   score:2
 }]
 var questionOne={
-  question:"Where do tanay live: ",
-  answer:"Bangalore"
+  question:"Where do pvr live: ",
+  answer:"Khammam"
 }
 
 var questionTwo={
-  question:"Tanay's favorite superhero: ",
-  answer:"Batman"
+  question:"Pvr's favorite superhero: ",
+  answer:"Iron Man"
 }
 var questionThree={
-  question:"where do tanay work?: ",
-  answer:"Microsoft"
+  question:"where do pvr work?: ",
+  answer:"Infosys"
 }
 
 var question=[questionOne,questionTwo,questionThree]
